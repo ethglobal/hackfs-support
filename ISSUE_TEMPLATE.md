@@ -1,6 +1,5 @@
 
 ## Describe the issue you're having
-(use the labels on the right side to tag different technologies)
 
 I'm trying to do ______ and it's doing ______
 
